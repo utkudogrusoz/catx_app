@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687526918934",
+    "project_id": "catxapp",
+    "storage_bucket": "catxapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687526918934:android:0ba0aeb4ae59a6de20ee37",
+        "android_client_info": {
+          "package_name": "com.catx.catxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687526918934-tispeivs0nia67l7nttu4qmerb0hal57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.catx.catxapp",
+            "certificate_hash": "084162e0a7ac8f5f779123f62ec02e8dc58ab791"
+          }
+        },
+        {
+          "client_id": "687526918934-o1si49p86daeantstdpv6eap3qkq6fv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-wv4uLBE3h0c3WnSVXDp0jCGhqJLOg4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687526918934-o1si49p86daeantstdpv6eap3qkq6fv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
